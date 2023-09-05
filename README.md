@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tunji</h1>
 <h3 align="center">Full Stack MERN Developer</h3>
 
-- 🔭 I’m currently working on **an e-commerce website**
+-  I’m currently working on **an e-commerce website**
 
-- 🌱 I’m currently learning **TypeScript**
+-  I’m currently learning **TypeScript**
 
-- 🤝 I’m looking for help with [Trinity Homes](https://trinity-booking-app.vercel.app/)
+-  I’m looking for help with [Trinity Homes](https://trinity-booking-app.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://tunechii.vercel.app](https://tunechii.vercel.app)
+-  All of my projects are available at [https://tunechii.vercel.app](https://tunechii.vercel.app)
 
-- 📫 How to reach me **enacwest@gmail.com**
+-  How to reach me **enacwest@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
