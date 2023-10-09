@@ -9,7 +9,7 @@
 
 -  All of my projects are available at [https://tunechii.vercel.app](https://tunechii.vercel.app)
 
--  How to reach me **enacwest@gmail.com**
+-  How to reach me **tunechii434@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
